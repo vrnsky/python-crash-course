@@ -1,3 +1,4 @@
 In Python you can read files
 In Python you can write to files
 In Python you can omit data type declarations
+In Python you can edasdasdas
